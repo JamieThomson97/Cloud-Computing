@@ -6,6 +6,7 @@ FileName = "dict.txt" #A file containing thousands of random words
 #Function separates each word into a dictionary the key being the word with value 1
 
 def allWords(FileName):
+
     words = {}
     with open(FileName) as f:
             for line in f.readlines():
@@ -53,10 +54,21 @@ for i in FilterAnagrams:
 
 #Attempt to write Result dictionary to a file
 
-FileName = "Mapped.txt"
-FileOpen = open(FileName, "w")
+    FileName1 = "Dict1.txt"
+    FileName2 = "Dict2.txt"
+    FileOpen1 = open(FileName1, "w")
+    FileOpen2 = open(FileName2, "w")
 
+i = 0
 for Key, Value in FilterAnagrams.items():
-    FileOpen.write(str(Key) + '\n\n'+ str(Value) + '\n\n\n\n')
 
-FileOpen.close()
+    if (i % 2 == 0):
+        #print ("in even")
+        FileOpen1.write(str(Key) +' = '+ str(Value)+'\n')
+    if (i % 2 != 0):
+        #print("in odd")
+        FileOpen2.write(str(Key) +' = '+ str(Value)+'\n')
+    i += 1
+
+FileOpen1.close()
+FileOpen2.close()
