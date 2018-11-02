@@ -3,7 +3,7 @@
 
 import re
 
-filename = "Dict2.txt"
+filename = "Dict1.txt"
 fileopen = open(filename, 'r')
 
 answer = {}
