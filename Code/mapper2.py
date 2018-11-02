@@ -8,6 +8,7 @@ FileName = "dict.txt"
 count = 0
 punctuation = set(string.punctuation)
 
+
 def make_list(file):
     word_pairs = []
     with open(file) as f:
@@ -19,13 +20,14 @@ def make_list(file):
             for word in line_no_punct:
                 sorted_word = "".join(sorted(list(word)))
                 #print (sorted_word)
-                word_pairs.append((sorted_word, word))
+                word_pairs.append((sorted_word+"\t"+word))
+                print(sorted_word, "\t", word)
     return word_pairs
 
 
 result = make_list(FileName)
 
-print(result)
+#print(result)
 
 i = 0
 
@@ -40,9 +42,11 @@ for line in result:
     if i % 2 == 0:
         # print ("in even")
         FileOpen1.write(str(line)+"\n")
+
     if i % 2 != 0:
         # print("in odd")
         FileOpen2.write(str(line)+"\n")
+
     i += 1
 
 FileOpen1.close()

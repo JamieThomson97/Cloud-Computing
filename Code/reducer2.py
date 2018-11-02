@@ -11,10 +11,10 @@ answer = {}
 i = 0
 with open(filename) as file:
     for line in file:
-        comma_index = line.find(",")
-        key = str(line)[2:(comma_index-1)]
+        words = line.split("\t")
+        key = words[0].strip("\r\n")
         #print(value)
-        value = str(line)[(comma_index+3):(len(str(line))-3)]
+        value = words[1].strip("\r\n")
         if key not in answer:
             answer[key] = []
 
