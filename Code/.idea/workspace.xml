@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4f0b1fa-46a1-425d-8dd3-96b8abdffbc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Jamie.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/splt test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dict1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dict1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dict2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dict2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mapper2.py" beforeDir="false" afterPath="$PROJECT_DIR$/mapper2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reducer2.py" beforeDir="false" afterPath="$PROJECT_DIR$/reducer2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +17,8 @@
     <SUITE FILE_PATH="coverage/Code$reducer.coverage" NAME="reducer Coverage Results" MODIFIED="1541008851786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Code$mapper.coverage" NAME="mapper Coverage Results" MODIFIED="1541009254604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Code$splitFiles.coverage" NAME="splitFiles Coverage Results" MODIFIED="1541007720021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Code$reducer2.coverage" NAME="reducer2 Coverage Results" MODIFIED="1541176611291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Code$mapper2.coverage" NAME="mapper2 Coverage Results" MODIFIED="1541178834458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Code$reducer2.coverage" NAME="reducer2 Coverage Results" MODIFIED="1541179255303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Code$mapper2.coverage" NAME="mapper2 Coverage Results" MODIFIED="1541179463790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="212517621">
@@ -49,14 +45,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4429" />
+          <entry key="py" value="4430" />
           <entry key="txt" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="4429" />
+          <entry key="Python" value="4430" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -83,11 +79,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mapper2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reducer2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -110,20 +115,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/smallerDict.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
               <caret line="197" column="6" selection-start-line="197" selection-start-column="6" selection-end-line="197" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reducer2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -149,13 +145,13 @@
       <find>aiej</find>
       <find>j</find>
       <find>osteologist</find>
-      <find>car</find>
-      <find>jamie</find>
       <find>d</find>
       <find>foam</find>
-      <find>aim</find>
-      <find>appearer</find>
       <find>abaca</find>
+      <find>car</find>
+      <find>appearer</find>
+      <find>aim</find>
+      <find>jamie</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -172,8 +168,8 @@
         <option value="$PROJECT_DIR$/Dict2.txt" />
         <option value="$PROJECT_DIR$/splt test.py" />
         <option value="$PROJECT_DIR$/dict.txt" />
-        <option value="$PROJECT_DIR$/mapper2.py" />
         <option value="$PROJECT_DIR$/smallerDict.txt" />
+        <option value="$PROJECT_DIR$/mapper2.py" />
       </list>
     </option>
   </component>
@@ -355,8 +351,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.mapper2" />
-        <item itemvalue="Python.splt test" />
         <item itemvalue="Python.reducer2" />
+        <item itemvalue="Python.splt test" />
         <item itemvalue="Python.mapper" />
         <item itemvalue="Python.reducer" />
       </list>
@@ -393,7 +389,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34303534" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26923078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -469,20 +465,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reducer2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dict2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/mapper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smallerDict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="197" column="6" selection-start-line="197" selection-start-column="6" selection-end-line="197" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -493,17 +486,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mapper2.py">
+    <entry file="file://$PROJECT_DIR$/Dict2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducer2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        <state relative-caret-position="105">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/smallerDict.txt">
+    <entry file="file://$PROJECT_DIR$/mapper2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="197" column="6" selection-start-line="197" selection-start-column="6" selection-end-line="197" selection-end-column="6" />
+        <state relative-caret-position="336">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
         </state>
       </provider>
     </entry>

@@ -4,7 +4,7 @@
 
 import string
 
-FileName = "SmallerDict.txt"
+FileName = "dict.txt"
 count = 0
 punctuation = set(string.punctuation)
 
@@ -13,7 +13,7 @@ def make_list(file):
     with open(file) as f:
         for line in f.readlines():
             remove_punct = ''.join(x for x in line if x not in punctuation)
-            print (remove_punct)
+            #print (remove_punct)
             line_no_punct = remove_punct.split()
             #print (line_no_punct)
             for word in line_no_punct:
@@ -25,7 +25,7 @@ def make_list(file):
 
 result = make_list(FileName)
 
-#print(result)
+print(result)
 
 i = 0
 
@@ -34,7 +34,7 @@ FileName2 = "Dict2.txt"
 FileOpen1 = open(FileName1, "w")
 FileOpen2 = open(FileName2, "w")
 
-'''
+
 for line in result:
 
     if i % 2 == 0:
@@ -44,7 +44,7 @@ for line in result:
         # print("in odd")
         FileOpen2.write(str(line)+"\n")
     i += 1
-'''
+
 FileOpen1.close()
 FileOpen2.close()
 
