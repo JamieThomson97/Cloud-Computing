@@ -18,10 +18,10 @@ def make_list(file):
             line_no_punct = remove_punct.split()
             #print (line_no_punct)
             for word in line_no_punct:
-                sorted_word = "".join(sorted(list(word)))
-                #print (sorted_word)
-                word_pairs.append((sorted_word+"\t"+word))
-                print(sorted_word, "\t", word)
+                lower_word = word.lower()
+                sorted_word = "".join(sorted(list(lower_word)))
+                word_pairs.append((sorted_word+"\t"+lower_word))
+                print(sorted_word, "\t", lower_word)
     return word_pairs
 
 

@@ -20,7 +20,13 @@ with open(filename) as file:
 
         answer[key].append(value)
 
+
+FileName1 = "Mapped.txt"
+
+FileOpen1 = open(FileName1, "w")
+
 for i in answer:
     if len(answer[i]) > 1:
+        FileOpen1.write(str(answer[i])+"\n")
 
-        print (answer[i])
+
