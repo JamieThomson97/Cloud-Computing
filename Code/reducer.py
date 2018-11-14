@@ -9,16 +9,15 @@ import sys
 answer = {}
 
 i = 0
-with open(filename) as file:
-    for line in sys.stdin:
-        words = line.split("\t")
-        key = words[0].strip("\r\n")
-        #print(value)
-        value = words[1].strip("\r\n")
-        if key not in answer:
-            answer[key] = []
+for line in sys.stdin:
+    words = line.split("\t")
+    key = words[0].strip("\r\n")
+    #print(value)
+    value = words[1].strip("\r\n")
+    if key not in answer:
+        answer[key] = []
 
-        answer[key].append(value)
+    answer[key].append(value)
 
 
 FileName1 = "Mapped.txt"
