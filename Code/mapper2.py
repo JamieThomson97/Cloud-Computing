@@ -3,7 +3,7 @@
 # Value is word
 
 import string
-
+import sys
 FileName = "dict.txt"
 count = 0
 punctuation = set(string.punctuation)

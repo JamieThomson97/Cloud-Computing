@@ -1,7 +1,6 @@
 # Takes the input as file, where each line a key value pair of a lexicographically sorted word as the key, and the actual word as the value
 # Outputs a list of every occurrence every anagram in the input
 
-import re
 
 filename = "Dict1.txt"
 fileopen = open(filename, 'r')
@@ -28,5 +27,6 @@ FileOpen1 = open(FileName1, "w")
 for i in answer:
     if len(answer[i]) > 1:
         FileOpen1.write(str(answer[i])+"\n")
+        print(str(answer[i])+"\n")
 
 
