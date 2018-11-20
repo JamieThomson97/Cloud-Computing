@@ -7,20 +7,24 @@ fileopen = open(filename, 'r')
 
 answer = {}
 
-i = 0
+
 with open(filename) as file:
     for line in file:
         words = line.split("\t")
         key = words[0].strip("\r\n")
-        #print(value)
+
         value = words[1].strip("\r\n")
         if key not in answer:
             answer[key] = []
+        if value not in answer[key]:
+            answer[key].append(value)
+            print (answer[key])
 
-        answer[key].append(value)
+print ("write")
+print ("")
+print ("")
 
-
-FileName1 = "Mapped.txt"
+FileName1 = "Mapped1.txt"
 
 FileOpen1 = open(FileName1, "w")
 

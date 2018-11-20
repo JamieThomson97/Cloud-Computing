@@ -4,11 +4,9 @@
 # Outputs a list of every occurrence every anagram in the input
 
 
-
 import sys
 
 anagram_pairs = {}
-
 
 for line in sys.stdin:
     words = line.split("\t")
@@ -18,12 +16,10 @@ for line in sys.stdin:
 
     if key not in anagram_pairs:
         anagram_pairs[key] = []
-    if value not in [x for v in anagram_pairs.values() for x in v]:
-
+    if value not in anagram_pairs[key]:
         anagram_pairs[key].append(value)
 
 i = 0
-
 for i in anagram_pairs:
-    if len(anagram_pairs[i]) > 1:
-        print(str(anagram_pairs[i])+"\"\n")
+   if len(anagram_pairs[i]) > 1:
+       print(str(anagram_pairs[i])+"\"\n")
