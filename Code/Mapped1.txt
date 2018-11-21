@@ -74,8 +74,7 @@ iinrw	irwin
 ginopst	posting
 adet	date
 aajnruy	january
-[bekoo	[ebook
-]	]
+bekoo	ebook
 aeeelrs	release
 adet	date
 jluy	july
@@ -163,7 +162,7 @@ afiklnnr	franklin
 aehmsttw	matthews
 w	w
 i	i
-'di	i'd
+di	id
 aehrrt	rather
 be	be
 a	a
@@ -1506,8 +1505,6 @@ ddeilm	middle
 deiopr	period
 fo	of
 eht	the
-'	'
-'s	's
 ehnw	when
 a	a
 aegrt	great
@@ -1999,7 +1996,7 @@ a	a
 ceehins	chinese
 jknu	junk
 aefrt	after
-'ahkrss	sharks'
+ahkrss	sharks
 eilrsv	livers
 an	an
 dlo	old
@@ -2165,7 +2162,7 @@ aaiilnt	italian
 eefhimnrs	fishermen
 in	in
 amt	tam
-'o	o'
+o	o
 aehnrsst	shanters
 dlou	loud
 hirsst	shirts
@@ -2482,7 +2479,7 @@ deeenprtv	prevented
 eht	the
 eglnorsu	loungers
 for	for
-'ccdeensy	decency's
+ccdeensy	decencys
 aeks	sake
 fmor	from
 gilny	lying
@@ -2779,7 +2776,7 @@ eht	the
 abiss	basis
 fo	of
 afknr	frank
-'inorrss	norris's
+inorrss	norriss
 elnov	novel
 amnor	moran
 fo	of
@@ -2804,7 +2801,7 @@ ago	ago
 eht	the
 ceilop	police
 eht	the
-'ailorss	sailors'
+ailorss	sailors
 innou	union
 adn	and
 eht	the
@@ -3494,7 +3491,7 @@ eht	the
 aeeimnst	matinees
 fmor	from
 otw	two
-'cckloo	o'clock
+cckloo	oclock
 ot	to
 afhl	half
 apst	past
@@ -3842,7 +3839,7 @@ cdlou	could
 be	be
 adh	had
 at	at
-'acopps	coppa's
+acopps	coppas
 for	for
 ffity	fifty
 censt	cents
@@ -4333,7 +4330,7 @@ aefrt	after
 eht	the
 aeehrtt	theatre
 adn	and
-'aestt	tate's
+aestt	tates
 chhiw	which
 ahs	has
 aellty	lately
@@ -4355,7 +4352,7 @@ ceeptx	except
 for	for
 eht	the
 ceipr	price
-'cdeilmnoos	delmonico's
+cdeilmnoos	delmonicos
 chhiw	which
 anr	ran
 eht	the
@@ -4402,7 +4399,7 @@ aest	east
 fo	of
 dlo	old
 st	st
-'amrsy	mary's
+amrsy	marys
 cchhru	church
 eno	one
 cdlou	could
@@ -4521,7 +4518,7 @@ dgoo	good
 entx	next
 eno	one
 fo	of
-'ilosu	louis'
+ilosu	louis
 eehrt	three
 bccehiru	cherubic
 eilltt	little
@@ -4695,7 +4692,7 @@ ceeffo	coffee
 asw	was
 eno	one
 fo	of
-'ilosu	louis'
+ilosu	louis
 aefilnooprss	professional
 ceersst	secrets
 aaddeelrttu	adulterated
@@ -4832,7 +4829,7 @@ ot	to
 aeimnr	remain
 enop	open
 ilntu	until
-'cckloo	o'clock
+cckloo	oclock
 in	in
 eht	the
 gimnnor	morning
@@ -5110,8 +5107,6 @@ asw	was
 defmor	formed
 in	in
 eht	the
-'	'
-s	s
 by	by
 aeenpprsw	newspaper
 eirrstw	writers
@@ -5409,7 +5404,7 @@ nrsu	runs
 in	in
 eht	the
 bdloo	blood
-'hosw	who's
+hosw	whos
 how	who
 in	in
 aaceimr	america
@@ -5444,7 +5439,7 @@ emor	more
 enoprss	persons
 deeimnnot	mentioned
 in	in
-'hosw	who's
+hosw	whos
 how	who
 by	by
 eht	the
@@ -8175,7 +8170,6 @@ ehost	those
 ddeioprv	provided
 in	in
 aaaghpprr	paragraph
-f	f
 ouy	you
 aeegr	agree
 ahtt	that
@@ -8379,8 +8373,8 @@ is	is
 ddeioprv	provided
 ot	to
 ouy	you
-'as	'as
-'is	is'
+as	as
+is	is
 hitw	with
 no	no
 ehort	other
@@ -8660,7 +8654,7 @@ ot	to
 aceghinr	reaching
 cejoprt	project
 beeggnrtu	gutenberg
-'mst	tm's
+mst	tms
 aglos	goals
 adn	and
 eginnrsu	ensuring
@@ -8774,7 +8768,7 @@ aeilnnrt	internal
 eeenruv	revenue
 ceeirsv	service
 eht	the
-'adfinnoostu	foundation's
+adfinnoostu	foundations
 ein	ein
 or	or
 adeeflr	federal
@@ -8815,10 +8809,10 @@ adeeflr	federal
 alsw	laws
 adn	and
 oruy	your
-'aesstt	state's
+aesstt	states
 alsw	laws
 eht	the
-'adfinnoostu	foundation's
+adfinnoostu	foundations
 aciilnppr	principal
 ceffio	office
 is	is
@@ -8869,7 +8863,7 @@ be	be
 dfnou	found
 at	at
 eht	the
-'adfinnoostu	foundation's
+adfinnoostu	foundations
 bew	web
 eist	site
 adn	and
