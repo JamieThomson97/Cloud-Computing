@@ -1,5 +1,5 @@
 import sys
-
+import re
 
 
 
@@ -8,8 +8,8 @@ def filter(inputString):
         return True
 
 
-print (filter(sys.stdin))
+def lower_removePunct(inputString):
+    punct_removed_lower =  re.sub(r"[^A-z ']", " ", inputString.lower())
+    return  punct_removed_lower
 
-
-#def hasNumbers(inputString):
- #   return any(char.isdigit() for char in inputString)
+print (lower_removePunct("Ja!£,m'ie"))

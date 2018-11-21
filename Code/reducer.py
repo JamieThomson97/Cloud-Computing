@@ -16,8 +16,10 @@ for line in sys.stdin:
     words = line.split("\t")
 
     # Assign the Key and the Value
-    key = words[0].strip("\r\n")
-    value = words[1].strip("\r\n")
+    key = words[0].rstrip()
+
+    value = words[1].rstrip()
+
 
     # If the Key (word sorted lexicographically) is not in the anagram_pairs dictionary,
     # i.e. hasn't appeared in the input yet,
@@ -36,4 +38,4 @@ for i in anagram_pairs:
     # If there is atleast 2 values in the values, i.e. atleast a pair of anagrams
    if len(anagram_pairs[i]) > 1:
        # Output the set of anagrams for that particular word
-       print(str(anagram_pairs[i])+"\"\n")
+       print(str(anagram_pairs[i])+"\n")

@@ -13,7 +13,11 @@ This function takes input of each individual word, and returns true if that word
 This function is used to emit numbers or words containing numbers from the output later
 '''
 def checkNum(inputString):
-    return any(char.isdigit() for char in inputString)
+        return any(char.isdigit() for char in inputString)
+
+def removeApost(inputString):
+    return re.sub(r"'","", inputString)
+
 
 '''
 Removes any punctuation(bar the apostrophe (')) and replaces it with a space. 
@@ -21,8 +25,8 @@ This is so punctuation isn't added to a word's Key and considered in the anagram
 Also makes words lower case so words with capitals can match with words that do not
 '''
 def lower_removePunct(inputString):
-    lowermost =  re.sub(r"[,.;_@=#?|!&$\":/()\[\]*-]+\ *", " ", inputString.lower())
-    return  re.sub(r"'", "", lowermost)
+    punct_removed_lower = re.sub(r"[^A-z 0-9 ']", " ", inputString.lower())
+    return  punct_removed_lower
 
 for line in sys.stdin:
 
@@ -30,11 +34,14 @@ for line in sys.stdin:
     remove_punct = lower_removePunct(line)
     #seprates line into a list of words
     words = remove_punct.split()
+
     for word in words:
         #Call checkNum to see if the word is or contains any number(s)
         if checkNum(word) is False:
+
             #If the word doesn't contain any numbers
             #sorted_word is the word sorted lexicographically
-            sorted_word = "".join(sorted(list(word)))
+            noApost = removeApost(word)
+            sorted_word = "".join(sorted(list(noApost)))
             #output the lexicographically sorted word and the word, separated by a tab
-            print((sorted_word+'\t'+word))
+            print((sorted_word+'\t'+noApost))
