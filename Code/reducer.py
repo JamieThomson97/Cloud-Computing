@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-# Takes system input, where each line a key value pair of a lexicographically sorted word as the key, and the actual word as the value
-# Outputs a list of every occurrence every anagram in the input
+# Takes system input, where each line a Key Value pair of a lexicographically sorted word as the Key, and the actual word as the Value
+# Outputs a list of every occurrence of every anagram in the input
 
 
 import sys
@@ -17,7 +17,6 @@ for line in sys.stdin:
 
     # Assign the Key and the Value
     key = words[0].strip("\r\n")
-
     value = words[1].strip("\r\n")
 
 
@@ -35,7 +34,9 @@ for line in sys.stdin:
 
 # For every Key-Values set in anagram_pairs
 for i in anagram_pairs:
-    # If there is at least 2 values in the values, i.e. at least a pair of anagrams
+
+    # If there is at least 2 words in the values, i.e. at least one pair of anagrams
    if len(anagram_pairs[i]) > 1:
+
        # Output the set of anagrams for that particular word
-       print(str(anagram_pairs[i])+"\n")
+       print(str(anagram_pairs[i]))
