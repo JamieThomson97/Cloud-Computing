@@ -6,6 +6,7 @@
         <list>
           <option value="mapper.checkNum" />
           <option value="dummyMap" />
+          <option value="mapperfunctions" />
         </list>
       </option>
     </inspection_tool>

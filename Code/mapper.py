@@ -20,10 +20,10 @@ for line in sys.stdin:
 
     #Call lower to make word lowercase
     #Use RegEx to remove any symbol that is not a number or letter and replace with a space
-    remove_punct = re.sub(r"[^a-z0-9']", " ", line.lower())
+    lower_removePunct = re.sub(r"[^a-z0-9']", " ", line.lower())
 
     #seprates line into a list of words
-    words = remove_punct.split()
+    words = lower_removePunct.split()
 
     for word in words:
 

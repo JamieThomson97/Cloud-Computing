@@ -13,27 +13,20 @@ import re
 This function takes input of each individual word, and returns true if that word is, or contains a number
 This function is used to emit numbers, or words containing numbers from the output later
 '''
-def checkNum(inputString):
-        return any(char.isdigit() for char in inputString)
-
-def removePunct(inputString):
+def lower_removePunct(inputString):
     return  re.sub(r"[^a-z0-9']", " ", inputString.lower())
 
-def wordList(InputString)
-    return remove_punct.split()
+def wordList(inputString):
+    return inputString.split()
 
-    for word in words:
+def checkNum(inputString):
+    return any(char.isdigit() for char in inputString)
 
-        #Call checkNum to see if the word is or contains any number(s),
-        #Word only gets considered if it doesn't contain numbers
-        if checkNum(word) is False:
+def removeApost(inputString):
+    return re.sub(r"'","", inputString)
 
-            #If the word doesn't contain any numbers
-            #Removes apostrophe
-            noApost = re.sub(r"'","", word)
+def sortWord(inputString):
+    return "".join(sorted(list(inputString)))
 
-            # sorted_word is the word sorted lexicographically
-            sorted_word = "".join(sorted(list(noApost)))
-
-            #output the lexicographically sorted word and the word, separated by a tab
-            print((sorted_word+'\t'+noApost))
+def printTest(sorted_word, word):
+    return print((sorted_word+'\t'+word))

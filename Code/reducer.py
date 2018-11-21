@@ -14,11 +14,11 @@ for line in sys.stdin:
     # For every line input, separate the string on the "tab" character
     # This will produce a list containing the Key as element 0 and Value as element 1
     words = line.split("\t")
+    print (words)
 
     # Assign the Key and the Value
     key = words[0].strip("\r\n")
     value = words[1].strip("\r\n")
-
 
     # If the Key (word sorted lexicographically) is not in the anagram_pairs dictionary,
     # i.e. hasn't appeared in the input yet,
