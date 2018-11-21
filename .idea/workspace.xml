@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="514653ab-cf8f-449a-b2ea-3342e8c87533" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/mapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/mapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/reducer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/reducer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/test_mapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/filters/sanitizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/filters/sanitizer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +18,16 @@
     <SUITE FILE_PATH="coverage/Cloud_Computing$reducer.coverage" NAME="reducer Coverage Results" MODIFIED="1542812888380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Cloud_Computing$condenser.coverage" NAME="condenser Coverage Results" MODIFIED="1542815151727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/OneDrive - Loughborough University/Uni/Cloud Computing/Coursework/Final Output" />
     <SUITE FILE_PATH="coverage/Cloud_Computing$test_mapper.coverage" NAME="test_mapper Coverage Results" MODIFIED="1542795989579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Cloud_Computing$test_map.coverage" NAME="test_map Coverage Results" MODIFIED="1542817677524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Cloud_Computing$hasNumbers.coverage" NAME="hasNumbers Coverage Results" MODIFIED="1542789145805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Cloud_Computing$Unittests_for_test_mapper_TestReduce.coverage" NAME="Unittests for test_mapper.TestReduce Coverage Results" MODIFIED="1542814090080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
-    <SUITE FILE_PATH="coverage/Cloud_Computing$mapper.coverage" NAME="mapper Coverage Results" MODIFIED="1542812873498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Cloud_Computing$mapper.coverage" NAME="mapper Coverage Results" MODIFIED="1542816616457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Cloud_Computing$Unittests_for_test_mapper_TestReduce_test_mapping.coverage" NAME="Unittests for test_mapper.TestReduce.test_mapping Coverage Results" MODIFIED="1542814086721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Cloud_Computing$calc.coverage" NAME="calc Coverage Results" MODIFIED="1542814665754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Cloud_Computing$main.coverage" NAME="main Coverage Results" MODIFIED="1542794241522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/OneDrive - Loughborough University/Uni/Cloud Computing/Coursework/Output2" />
+    <SUITE FILE_PATH="coverage/Cloud_Computing$Unittests_for_test_map_TestMap_test_checkNum.coverage" NAME="Unittests for test_map.TestMap.test_checkNum Coverage Results" MODIFIED="1542817729586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Cloud_Computing$Unittests_for_test_map_TestMap_test_mapper.coverage" NAME="Unittests for test_map.TestMap.test_mapper Coverage Results" MODIFIED="1542814902847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Cloud_Computing$Unittests_in_test_map_py.coverage" NAME="Unittests in test_map.py Coverage Results" MODIFIED="1542817680348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Cloud_Computing$Unittests_in_test_mapper_py.coverage" NAME="Unittests in test_mapper.py Coverage Results" MODIFIED="1542814378741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Cloud_Computing$mapper2.coverage" NAME="mapper2 Coverage Results" MODIFIED="1542701130141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Cloud_Computing$reducer2.coverage" NAME="reducer2 Coverage Results" MODIFIED="1542789992431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
@@ -50,38 +51,38 @@
     <session id="-784281436">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="12" />
+          <entry key="py" value="16" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="12" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="7050" />
+          <entry key="py" value="7371" />
           <entry key="txt" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="45" />
-          <entry key="Python" value="7049" />
+          <entry key="Python" value="7370" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
@@ -124,11 +125,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Code/mapper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="336">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#23#185#1" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,8 +140,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/reducer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="231">
+              <caret line="11" column="22" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/test_map.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding>
+                <element signature="e#1#16#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/Code/calc.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -155,67 +171,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/test_map.py">
+        <entry file="file://$PROJECT_DIR$/Code/test_reduce.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/dummyMap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="462">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="23" />
               <folding>
-                <element signature="e#1#16#0" expanded="true" />
+                <element signature="e#187#197#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/OneDrive - Loughborough University/Uni/Cloud Computing/Coursework/Final Output/condenser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/reducer2.py">
+        <entry file="file://$PROJECT_DIR$/Code/dummyReduce.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/OneDrive - Loughborough University/Uni/Cloud Computing/Coursework/Output3/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/OneDrive - Loughborough University/Uni/Cloud Computing/Coursework/Output2/main (1).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/3314.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="988" column="6" selection-end-line="990" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/Mapped1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="9305" column="14" selection-end-line="9305" selection-end-column="14" />
+            <state relative-caret-position="872">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -245,7 +221,13 @@
       <find>1</find>
       <find>'</find>
       <find>A</find>
+      <find>calc</find>
+      <find>test_map</find>
     </findStrings>
+    <replaceStrings>
+      <replace>test_map</replace>
+      <replace>dummyMap</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -261,12 +243,15 @@
         <option value="$PROJECT_DIR$/Code/unittest.py" />
         <option value="$PROJECT_DIR$/Code/Mapped1.txt" />
         <option value="$USER_HOME$/OneDrive - Loughborough University/Uni/Cloud Computing/Coursework/Output3/main.py" />
-        <option value="$PROJECT_DIR$/Code/mapper.py" />
         <option value="$PROJECT_DIR$/Code/reducer.py" />
         <option value="$PROJECT_DIR$/Code/test_mapper.py" />
         <option value="$PROJECT_DIR$/Code/calc.py" />
-        <option value="$PROJECT_DIR$/Code/test_map.py" />
         <option value="$USER_HOME$/OneDrive - Loughborough University/Uni/Cloud Computing/Coursework/Final Output/condenser.py" />
+        <option value="$PROJECT_DIR$/Code/mapper.py" />
+        <option value="$PROJECT_DIR$/Code/test_reduce.py" />
+        <option value="$PROJECT_DIR$/Code/dummyReduce.py" />
+        <option value="$PROJECT_DIR$/Code/test_map.py" />
+        <option value="$PROJECT_DIR$/Code/dummyMap.py" />
       </list>
     </option>
   </component>
@@ -312,6 +297,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -354,29 +342,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.condenser">
-    <configuration name="calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Cloud-Computing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/calc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests for test_map.TestMap.test_checkNum">
     <configuration name="condenser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Cloud-Computing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -399,7 +365,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_map.TestMap.test_mapper" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="mapper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Cloud-Computing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/mapper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_map" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Cloud-Computing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/test_map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_map.TestMap.test_checkNum" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Cloud-Computing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -410,11 +420,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_map.TestMap.test_mapper&quot;" />
+      <option name="_new_target" value="&quot;test_map.TestMap.test_checkNum&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_mapper.TestReduce" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_map.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Cloud-Computing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -425,39 +435,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_mapper.TestReduce&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in test_mapper.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Cloud-Computing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Code/test_mapper.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Code/test_map.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests in test_mapper.py" />
-      <item itemvalue="Python tests.Unittests for test_mapper.TestReduce" />
-      <item itemvalue="Python tests.Unittests for test_map.TestMap.test_mapper" />
-      <item itemvalue="Python.calc" />
       <item itemvalue="Python.condenser" />
+      <item itemvalue="Python tests.Unittests in test_map.py" />
+      <item itemvalue="Python.mapper" />
+      <item itemvalue="Python tests.Unittests for test_map.TestMap.test_checkNum" />
+      <item itemvalue="Python.test_map" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_map.TestMap.test_checkNum" />
+        <item itemvalue="Python tests.Unittests in test_map.py" />
+        <item itemvalue="Python.test_map" />
+        <item itemvalue="Python.mapper" />
         <item itemvalue="Python.condenser" />
-        <item itemvalue="Python tests.Unittests for test_map.TestMap.test_mapper" />
-        <item itemvalue="Python.calc" />
-        <item itemvalue="Python tests.Unittests in test_mapper.py" />
-        <item itemvalue="Python tests.Unittests for test_mapper.TestReduce" />
       </list>
     </recent_temporary>
   </component>
@@ -486,48 +481,55 @@
       <option name="project" value="LOCAL" />
       <updated>1542799607390</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="minor change">
+      <created>1542815635983</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542815635983</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_mapper_py - 2018.11.21 at 15h 29m 58s.xml">
-      <configuration name="Unittests in test_mapper.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_mapper_py - 2018.11.21 at 15h 30m 17s.xml">
-      <configuration name="Unittests in test_mapper.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_mapper_py - 2018.11.21 at 15h 33m 13s.xml">
-      <configuration name="Unittests in test_mapper.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_map_TestMap_test_mapper - 2018.11.21 at 15h 36m 52s.xml">
-      <configuration name="Unittests for test_map.TestMap.test_mapper" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_map_TestMap_test_mapper - 2018.11.21 at 15h 38m 08s.xml">
-      <configuration name="Unittests for test_map.TestMap.test_mapper" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_map_TestMap_test_mapper - 2018.11.21 at 15h 38m 26s.xml">
-      <configuration name="Unittests for test_map.TestMap.test_mapper" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_map_TestMap_test_mapper - 2018.11.21 at 15h 38m 28s.xml">
-      <configuration name="Unittests for test_map.TestMap.test_mapper" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_map_TestMap_test_mapper - 2018.11.21 at 15h 40m 33s.xml">
-      <configuration name="Unittests for test_map.TestMap.test_mapper" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_map_TestMap_test_mapper - 2018.11.21 at 15h 41m 32s.xml">
-      <configuration name="Unittests for test_map.TestMap.test_mapper" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_map_TestMap_test_mapper - 2018.11.21 at 15h 41m 43s.xml">
       <configuration name="Unittests for test_map.TestMap.test_mapper" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_map_py - 2018.11.21 at 15h 57m 58s.xml">
+      <configuration name="Unittests in test_map.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_map_py - 2018.11.21 at 16h 00m 25s.xml">
+      <configuration name="Unittests in test_map.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_map_py - 2018.11.21 at 16h 01m 04s.xml">
+      <configuration name="Unittests in test_map.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_map_py - 2018.11.21 at 16h 01m 25s.xml">
+      <configuration name="Unittests in test_map.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_map_py - 2018.11.21 at 16h 01m 49s.xml">
+      <configuration name="Unittests in test_map.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_map_py - 2018.11.21 at 16h 22m 58s.xml">
+      <configuration name="Unittests in test_map.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_map_TestMap_test_checkNum - 2018.11.21 at 16h 24m 55s.xml">
+      <configuration name="Unittests for test_map.TestMap.test_checkNum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_map_TestMap_test_checkNum - 2018.11.21 at 16h 27m 17s.xml">
+      <configuration name="Unittests for test_map.TestMap.test_checkNum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_map_TestMap_test_checkNum - 2018.11.21 at 16h 28m 27s.xml">
+      <configuration name="Unittests for test_map.TestMap.test_checkNum" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4968153" visible="true" weight="0.09541578" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497921" visible="true" weight="0.096481875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.50318474" side_tool="true" visible="true" weight="0.09541578" />
+      <window_info id="Favorites" order="2" sideWeight="0.502079" side_tool="true" weight="0.09541578" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952183" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.34719336" />
@@ -604,13 +606,6 @@
     </entry>
     <entry file="file://$USER_HOME$/OneDrive - Loughborough University/Uni/Cloud Computing/Coursework/Output2/main.py" />
     <entry file="file://$PROJECT_DIR$/Code/unittest.py" />
-    <entry file="file://$PROJECT_DIR$/Code/reducer2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Code/3314.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -639,54 +634,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/test_mapper.py">
+    <entry file="file://$PROJECT_DIR$/Code/test_mapper.py" />
+    <entry file="file://$PROJECT_DIR$/Code/reducer2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="567">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/OneDrive - Loughborough University/Uni/Cloud Computing/Coursework/Final Output/condenser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/reducer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="231">
+          <caret line="11" column="22" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/dummyReduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="872">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/calc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/mapper.py">
+    <entry file="file://$PROJECT_DIR$/Code/test_reduce.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/dummyMap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="462">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="e#187#197#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/test_map.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="252">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding>
             <element signature="e#1#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/OneDrive - Loughborough University/Uni/Cloud Computing/Coursework/Final Output/condenser.py">
+    <entry file="file://$PROJECT_DIR$/Code/mapper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="336">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#23#185#1" />
+          </folding>
         </state>
       </provider>
     </entry>
